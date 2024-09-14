@@ -1,3 +1,4 @@
+#Performing The OCR Functionality
 import requests
 import pandas as pd
 from PIL import Image
