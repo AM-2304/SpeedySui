@@ -1,6 +1,6 @@
-# SpeedySui
+# Drug-Label OCR
 
-SpeedySui is a Python-based image processing toolkit designed for tasks such as decolorization, scaling, and optical character recognition (OCR). This project is a fork of the original repository [dvfn19/SpeedySui](https://github.com/dvfn19/SpeedySui) and aims to enhance and extend its functionality.
+SpeedySui is a Python-based image processing toolkit designed for tasks such as decolorization, scaling, and optical character recognition (OCR).
 
 ## Features
 
