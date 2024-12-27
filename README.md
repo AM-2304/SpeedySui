@@ -21,7 +21,7 @@ SpeedySui is a Python-based image processing toolkit designed for tasks such as 
 
 ## Installation
 
-To use SpeedySui, you need to have Python installed on your system. Follow these steps to set up the project:
+To use DL OCR, you need to have Python installed on your system. Follow these steps to set up the project:
 
 1. Clone the repository:
    ```bash
